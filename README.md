@@ -10,6 +10,8 @@ How to use:
 
 3. Run tmux.
 
-4. In tmux window, press the keys combination `<leader>I` to install all the plugins.
+4. Install tmux-tpm following their instructions here: https://github.com/tmux-plugins/tpm
 
-5. Finally, press `<leader>r` to reload the environment.
+5. In tmux window, press the keys combination `<leader>I` to install all the plugins.
+
+6. Finally, press `<leader>r` to reload the environment.
